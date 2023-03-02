@@ -14,9 +14,7 @@ projects. Most recently I'm working to improve my web development skills.
 
 ### My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=robertdavidwest)](https://git.io/streak-stats)
-
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertdavidwest)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertdavidwest&theme=navy-gear)](https://git.io/streak-stats) ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertdavidwest&show_icons=true&theme=solarized-light)
 
 ### Top Languages
 
