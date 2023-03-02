@@ -4,6 +4,7 @@ I've spent a great deal of my career working on enterprise level data pipelines 
 
 I’m a Solutions Engineer, a problem solver and a builder. I love to code, I love to mentor and teach. I love to design systems and
 projects. Most recently I'm working to improve my web development skills.
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/robertdavidwest) [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robertdavidwest/) [![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:robert.david.west@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://robertdavidwest.com/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RobertDavidWest)
 
 - Here is my [blog](https://robertdavidwest.com) 
 
