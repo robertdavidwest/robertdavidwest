@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Robert.
-<!-- description-start -->
-I'm a Full Stack Software Engineer and Data Engineer.
+<!-- description-start -->I'm a Full Stack Software Engineer and Data Engineer.
 
 I've spent a great deal of my career working on enterprise level data pipelines and providing Data Engineering support and Leadership to Data Warehouse and Analytics organizations.
 
@@ -18,8 +17,7 @@ projects. Most recently I'm working to improve my web development skills.
 - Location: Brookyln, NY
 - Nationality: UK Citizen/ US Perm Resident
 - Study: Carnegie Mellon
-- Interests: Guitar, Health & Fitness, Meditation & Yoga
-<!-- aboutme-list-end -->
+- Interests: Guitar, Health & Fitness, Meditation & Yoga<!-- aboutme-list-end -->
 - Here is my [blog](https://robertdavidwest.com)
 - You can reach out to me by email if you'd like to connect: mailto:robert.david.west@gmail.com
 
