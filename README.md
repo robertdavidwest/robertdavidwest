@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Robert.
-<!-- description-start -->I'm a Full Stack Software Engineer and Data Engineer. I've spent a great deal of my career working on enterprise level data pipelines and providing Data Engineering support and Leadership to Data Warehouse and Analytics organizations.
+<!-- description-start -->
+
+I'm a Full Stack Software Engineer and Data Engineer. 
+
+I've spent a great deal of my career working on enterprise level data pipelines and providing Data Engineering support and Leadership to Data Warehouse and Analytics organizations.
 
 I’m a Solutions Engineer, a problem solver and a builder. I love to code, I love to mentor and teach. I love to design systems and
 projects. Most recently I'm working to improve my web development skills.
