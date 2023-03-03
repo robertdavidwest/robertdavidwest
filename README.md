@@ -13,6 +13,13 @@ projects. Most recently I'm working to improve my web development skills.
 // use this for portfolio when it is up :
 
 ![portfolio](https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)]
+
+<!-- aboutme-list-start -->
+- Location: Brookyln, NY
+- Nationality: UK Citizen/ US Perm Resident
+- Study: Carnegie Mellon
+- Interests: Guitar, Health & Fitness, Meditation & Yoga
+<!-- aboutme-list-end -->
 -->
 
 - Here is my [blog](https://robertdavidwest.com)
