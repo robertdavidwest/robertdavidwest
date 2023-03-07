@@ -23,7 +23,7 @@ projects. Most recently I'm working to improve my web development skills.
 <!-- skills-start -->
 ### Skills
 * Languages: Python: 8/10, JavaScript: 7/10, SQL: 7/10, TypeScript: 6/10 Clojure: 5/10
-* Frontend: React, Redux, Nextjs
+* Frontend: React: 7/10, Redux: 7/10, Nextjs: 5/10
 * Backend: Node/Express: 7/10, Python/Flask: 6/10
 * Data Engineering: Python/Pandas: 9/10, Apache Airflow: 7/10, Apache Spark: 4/10
 * Database: PostgreSQL: 7/10, MySQL: 6/10, Snowflake: 5/10, AWS RDS/Redshift: 6/10
