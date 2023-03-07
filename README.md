@@ -10,6 +10,18 @@ projects. Most recently I'm working to improve my web development skills.
 <!-- description-end -->
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/robertdavidwest) [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robertdavidwest/) [![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:robert.david.west@gmail.com) [![blog](https://img.shields.io/badge/Blog-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://robertdavidwest.com/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RobertDavidWest)
 
+
+<!-- skills-start -->
+### Skills
+* Languages: Python: 8/10, JavaScript: 7/10, SQL: 7/10, TypeScript: 6/10 Clojure: 5/10
+* Frontend: React, Redux, Nextjs
+* Backend: Node/Express: 7/10, Python/Flask: 6/10
+* Data Engineering: Python/Pandas: 9/10, Apache Airflow: 7/10, Apache Spark: 4/10
+* Database: PostgreSQL: 7/10, MySQL: 6/10, Snowflake: 5/10, AWS RDS/Redshift: 6/10
+* Data Science: Python/Pandas: 9/10, Jupyter Notebook: 8/10, python/matplotlib/seaborn: 7/10, python/statsmodels: 6/10 python/scikit-learn: 5/10
+<!-- skills-end -->
+
+
 <!--
 // use this for portfolio when it is up :
 
