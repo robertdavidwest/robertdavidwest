@@ -14,7 +14,7 @@ projects. Most recently I'm working to improve my web development skills.
 - Nationality: UK Citizen/ US Perm Resident
 - Study: Carnegie Mellon
 - Interests: Guitar, Health & Fitness, Meditation & Yoga<!-- aboutme-list-end -->
-- Here is my [blog](https://robertdavidwest.com)
+- blog: https://robertdavidwest.com
 - email: [robert.david.west@gmail.com](mailto:robert.david.west@gmail.com)
 
 
