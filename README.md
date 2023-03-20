@@ -13,7 +13,7 @@ I'm a Solutions Engineer, a problem solver and a builder. I love to code, I love
 - Nationality: UK Citizen/ US Perm Resident
 - Study: Carnegie Mellon
 - Interests: Guitar, Health & Fitness, Meditation & Yoga
-- Blog: https://robertdavidwest.com
+- Blog: https://robertdavidwest.blog
 - Email: robert.david.west@gmail.com
 <!-- aboutme-list-end -->
 
