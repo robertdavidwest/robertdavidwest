@@ -10,7 +10,7 @@ I'm a Solutions Engineer, a problem solver and a builder. I love to code, I love
 
 <!-- aboutme-list-start -->
 - Location: Brookyln, NY
-- Nationality: UK Citizen/ US Perm Resident
+- Nationality: UK/US Dual Citizen
 - Study: Carnegie Mellon
 - Interests: Guitar, Health & Fitness, Meditation & Yoga
 - Blog: https://robertdavidwest.blog
