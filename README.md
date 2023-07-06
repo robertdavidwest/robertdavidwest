@@ -25,8 +25,8 @@ I'm a Solutions Engineer, a problem solver and a builder. I love to code, I love
 - Languages: Python: 9/10, JavaScript: 8/10, SQL: 8/10, TypeScript: 7/10, Clojure: 6/10
 - Frontend: React: 9/10, Redux: 8/10, Nextjs: 7/10
 - Backend: Node/Express: 8/10, Python/Flask: 7/10
-- Data Engineering: Python/Pandas: 9/10, Python/dask/multiprocessing: 8/10, Apache Airflow: 8/10, Apache Spark: 5/10
-- Database: PostgreSQL: 8/10, MySQL: 7/10, Snowflake: 6/10, AWS RDS/Redshift: 7/10
+- Data Engineering: Python/Pandas: 9/10, Python/dask/multiprocessing: 8/10, Apache Airflow: 8/10, Apache Spark: 7/10
+- Database/Data Warehouse: PostgreSQL: 8/10, MySQL: 7/10, Snowflake: 6/10, AWS RDS/Redshift: 7/10
 - Data Science: Python/Pandas: 9/10, Jupyter Notebook: 8/10, python/matplotlib/seaborn: 7/10, python/statsmodels: 7/10, python/scikit-learn: 6/10
 <!-- skills-end -->
 
